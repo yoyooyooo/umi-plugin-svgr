@@ -1,0 +1,17 @@
+{
+  "name": "umi-plugin-svgr",
+  "version": "0.0.1",
+  "description": "custom svgr",
+  "main": "index.js",
+  "keywords": [
+    "umi"
+  ],
+  "author": "yoyo",
+  "license": "ISC",
+  "devDependencies": {
+    "@svgr/webpack": "^4.3.2",
+    "babel-loader": "^8.0.6",
+    "lodash": "^4.17.15",
+    "url-loader": "^2.1.0"
+  }
+}
