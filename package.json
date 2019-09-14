@@ -3,6 +3,9 @@
   "version": "0.0.2",
   "description": "custom svgr",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "keywords": [
     "umi"
   ],
